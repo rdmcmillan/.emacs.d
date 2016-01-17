@@ -1,2 +1,2 @@
 # .emacs.d
-My emacs settings for, primarily, Clojure development.
+My emacs settings for messing around in the Clojure stack.
