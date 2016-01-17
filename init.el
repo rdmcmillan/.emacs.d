@@ -144,9 +144,15 @@
 (when (fboundp 'windmove-default-keybindings)
   (windmove-default-keybindings))
 
-;; enable copy paste in gui
+;; Enable copy paste in gui
 (setq x-select-enable-clipboard t)
 
+;; Set font size
 (set-face-attribute 'default nil :height 70)
 
+;; Remove gui tool bar
 (tool-bar-mode -1)
+
+;; New buffers open with vertical split
+(setq split-height-threshold nil)
+(setq split-width-threshold 0)
