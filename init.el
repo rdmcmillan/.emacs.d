@@ -92,7 +92,7 @@
 ;;
 ;; (require 'yaml-mode)
 ;; (add-to-list 'auto-mode-alist '("\\.yml$" . yaml-mode))
-;; 
+;;
 ;; Adding this code will make Emacs enter yaml mode whenever you open
 ;; a .yml file
 (add-to-list 'load-path "~/.emacs.d/vendor")
@@ -123,8 +123,6 @@
 
 (load "dired-details.el")
 (load "dired-details+.el")
-(load "fit-frame.el")
-(load "autofit-frame.el")
 (load "misc-fns.el")
 (load "strings.el")
 (load  "thingatpt+.el")
@@ -148,7 +146,7 @@
 (setq x-select-enable-clipboard t)
 
 ;; Set font size
-(set-face-attribute 'default nil :height 70)
+(set-face-attribute 'default nil :height 80)
 
 ;; Remove gui tool bar
 (tool-bar-mode -1)

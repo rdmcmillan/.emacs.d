@@ -1,0 +1,35 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/user/" . "powernoodle/")
+ ("/Users/user/powernoodle/main_client_next/src/" . "pn_main_client/")
+ ("/Users/user/powernoodle/main_client_next/" . "src/")
+ ("/Users/user/powernoodle/" . "main_client_next/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/user/powernoodle/main_client_next/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "README.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/user/powernoodle/main_client_next/src/pn_main_client/" (22169 23542 0 0) "tools/" "spaces/" "space_states/" "space/" "rankings.cljs" "network/" "md5.cljs" "logout/" "identifiers.cljs" "help/" "framework/" "filters_ui.cljs" "filters_eval.cljs" "filters.cljs" "crud.cljs" "core.cljs" "contacts/" "check_vec.cljs" "app_state.cljs" "activity/" "activities.cljs" ".DS_Store" "../" "./")
+
+ ("/Users/user/powernoodle/main_client_next/src/" (22156 4041 0 0) "pn_main_client/" ".DS_Store" "../" "./")
+
+ ("/Users/user/powernoodle/main_client_next/" (22169 3975 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "figwheel_server.log" "dev-resources/" ".lein-failures" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/user/powernoodle/" (22107 7080 0 0) "powerjam/" "pn_ui_client/" "pn_proto_js/" "pn_proto_clj/" "pn_model_server/" "pn_model_client/" "pn_main_server/" "pn_main_client/" "pn_build/" "main_client_next/" ".DS_Store" "../" "./")
+
+ ("/Users/user/" (22172 62454 0 0) "win8,txt" "weedDetect12070801.png" "VMs/" "VirtualBox VMs/" "userSubscriptions.txt" "tried_to_BASH" "tmp/" "timestampFixes.txt" "staryTardis.jpg" "Sites/" "Samepage/" "reports.clj" "report-setup.clj" "Public/" "powernoodle/" "Pictures/" "OneDrive/" "npm-debug.log" "nateDocs/" "Nate/" "Music/" "Movies/" "Library/" "lein.txt" "hardlink/" "geeknote/" "Emily/" "eclipse/" "Downloads/" "Documents/" "Desktop/" "DBs/" "code/" "clojureInSmallPieces.pdf" "brave/" "Applications/" "936.png" "1CPQQ3X2A7L6_165.xls" ".Xauthority" ".wget-hsts" ".viminfo" ".Trash/" ".ssh/" ".rnd" ".python-eggs/" ".p2/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".MacOSX/" ".m2/" ".local/" ".lein_history" ".lein/" ".java_history" ".IdeaIC15/" ".gnome2/" ".gitignore_global" ".gitexcludes" ".gitconfig" ".geeknote/" ".emacs.d.BAK/" ".emacs.d/" ".eclipse/" ".DS_Store" ".config/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
