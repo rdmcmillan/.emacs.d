@@ -60,7 +60,7 @@
     projectile
 
     ;; colorful parenthesis matching
-    rainbow-delimiters
+    ;;rainbow-delimiters
 
     ;; edit html tags like sexps
     tagedit
@@ -146,7 +146,7 @@
 (setq x-select-enable-clipboard t)
 
 ;; Set font size
-(set-face-attribute 'default nil :height 80)
+(set-face-attribute 'default nil :height 85)
 
 ;; Remove gui tool bar
 (tool-bar-mode -1)
@@ -154,3 +154,6 @@
 ;; New buffers open with vertical split
 (setq split-height-threshold nil)
 (setq split-width-threshold 0)
+
+;; Rainbow delimiters for Clojure mode, hopefully
+(add-hook 'clojure-mode-hook #'rainbow-delimiters-mode)

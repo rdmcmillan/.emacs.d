@@ -2,6 +2,14 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/davem/code/simple-clj-server/resources/" . "public/")
+ ("/home/" . "davem/")
+ ("/" . "home/")
+ ("/home/davem/code/simple-clj-server/src/" . "web_server/")
+ ("/home/davem/code/simple-clj-server/" . "resources/")
+ ("/home/davem/code/" . "simple-clj-server/")
+ ("/home/davem/.emacs.d/" . "customizations/")
+ ("/home/davem/" . ".emacs.d/")
  ("/Users/user/" . "powernoodle/")
  ("/Users/user/powernoodle/main_client_next/src/" . "pn_main_client/")
  ("/Users/user/powernoodle/main_client_next/" . "src/")
@@ -10,16 +18,52 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/davem/code/simple-clj-server/"
+ "/home/davem/code/simple-clj-server/src/web_server/"
+ "/home/davem/.emacs.d/customizations/"
+ "/home/davem/.emacs.d/"
+ "/home/davem/Downloads/"
  "/Users/user/powernoodle/main_client_next/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "project.clj"
+ "styles.clj"
+ "setup-clojure.el"
+ "init.el"
+ "core.clj"
+ "editing.el"
+ "ACU001C.MBR"
  "README.md"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/davem/code/simple-clj-server/" (22902 24569 36816 930000) "src/" "resources/" "#project.clj#" ".gitignore" "doc/" ".lein-repl-history" "./" "README.md" "../" "CHANGELOG.md" "target/" "test/" "LICENSE" "project.clj")
+
+ ("/home/davem/code/simple-clj-server/src/web_server/" (22902 20202 436816 930000) "page.clj" "core.clj" "styles.clj" "./" "../")
+
+ ("/home/davem/code/simple-clj-server/resources/public/" (22899 48135 24377 39000) "node_modules/" "./" "../" "calendar.html" "styles/" "images/")
+
+ ("/home/davem/code/simple-clj-server/resources/" (22899 47464 332400 960000) "public/" "./" "../")
+
+ ("/home/davem/.emacs.d/customizations/" (22902 10692 887127 746000) "ui.el" "navigation.el" "misc-fns.el" "dired-details+.el" "setup-clojure.el" "./" "../" "shell-integration.el" "strings.el" "misc.el" "editing.el" "thingatpt+.el" "dired-details.el" "setup-js.el" "elisp-editing.el")
+
+ ("/home/davem/.emacs.d/" (22902 14486 565123 127000) "themes/" "projectile-bookmarks.eld" "init.el" "places" "auto-save-list/" ".git/" ".gitignore" "ido.last" "elpa/" ".recentf" "cider-history" "./" "README.md" "../" ".smex-items" "customizations/" "backups/")
+
+ ("/home/" (22847 63912 684113 330000) "./" "../" "davem/")
+
+ ("/tmp/" (22902 14749 525123 127000) ".X0-lock" "mintUpdate/" "eldoc.txt" ".XIM-unix/" "vscode-3c0d6032-54c2-476c-b6ec-305b645fd1e8.sock" "systemd-private-84e364b81dcc40e8a7146960cb6f0654-colord.service-LGzCpF/" "systemd-private-84e364b81dcc40e8a7146960cb6f0654-rtkit-daemon.service-uc1Byz/" ".Test-unix/" ".ICE-unix/" "pulse-PKdhtXMmr18n/" "VSCode Crashes/" "62e16447-b5a1-4bb2-9337-569ae30594fb/" ".com.google.Chrome.TXVQi5/" "hsperfdata_davem/" ".X11-unix/" ".font-unix/" "ssh-3rTIxL7gpsq6/" "../" "./")
+
+ ("/home/davem/Downloads/" (22894 4579 265489 83000) "TDReport.sh" "HELLOWORLD.MBR" "QSYSPRT_1_QPADEV000H_DAVEM_569041_VPCL_1170717_094615.txt" "OR0150W.MBR" "jdk-8u131-linux-x64.tar.gz" "geronimo-tomcat6-javaee5-2.2.1-bin.tar.gz" "test2" "emacs.d-master.zip" "ksh93BAK" "test.txt" "fullcalendar-3.4.0.zip" "test1" "atlassian-confluence-6.2.3-x64.bin" ".emacs.d-master/" "ACU001C.MBR" "java_ee_sdk-7u3.zip" "./" "../" "Screen Shot 2015-08-14 at 4.19.27 PM.png" "index.html" "ACU003C.MBR" "favicon.ico" "code_1.13.0-1496940180_amd64.deb" "TDReport" "test1.rpg" "geronimo-tomcat7-javaee6-3.0.1-bin.tar.gz" "TXBOUT.TXT" "atlassian-bamboo-6.0.3.tar.gz")
+
+ ("/home/davem/" (22902 9328 91695 745000) "ftpSearch.txt" ".dmrc" "calfront/" ".emacs.d/" "jiraQueries.txt" "IBM/" ".vim/" ".profile" ".linuxmint/" "Documents/" ".themes/" ".bash_logout" ".vboxclient-draganddrop.pid" ".pki/" ".Xauthority" "Untitled Folder.fdfx" ".icons/" ".swt/" "vpcl/" ".lein/" ".gnome/" "IBMiAccess/" ".npm/" "gitTest/" "workspace/" ".bashrc" ".emacs.d.bak/" ".xsession-errors" ".eclipse/" ".node_repl_history" "vpcl2/" ".cache/" "mintShare/" ".vboxclient-seamless.pid" "vpWorkspace/" ".gitconfig" ".nano/" ".sudo_as_admin_successful" ".config/" ".local/" ".dbus/" ".vboxclient-clipboard.pid" "Downloads/" "Pictures/" ".cinnamon/" ".ICEauthority" ".bash_history.swp" ".dmrc.4WJG3Y" "atlassian-bitbucket-5.1.1-x64.bin" ".install4j" ".p2/" ".node_modules_global/" "testText.txt" ".oracle_jre_usage/" ".vscode/" "code/" "./" "../" "Desktop/" "iSeriesFiles/" "Public/" ".vboxclient-display.pid" ".npmrc" ".viminfo" "eclipseWorkSpace/" ".bash_history" ".wget-hsts" ".thunderbird/" ".m2/" ".gnupg/" "VP/" "Templates/" "bin/" "eclipse/" ".java/" ".mozilla/" "miworkplace/" ".gconf/" ".netrc" ".ssh/" ".gksu.lock")
+
+ ("/home/davem/code/" (22899 37905 95647 816000) "cloj/" "npmTry/" "slackStuff/" "webApp/" "fullcalendar/" "./" "../" "fullcalendar-3.4.0/" "calAppVp/" "simple-clj-server/")
+
+ ("/home/davem/code/simple-clj-server/src/" (22899 44569 532400 960000) "web_server/" "./" "../")
+
  ("/Users/user/powernoodle/main_client_next/src/pn_main_client/" (22169 23542 0 0) "tools/" "spaces/" "space_states/" "space/" "rankings.cljs" "network/" "md5.cljs" "logout/" "identifiers.cljs" "help/" "framework/" "filters_ui.cljs" "filters_eval.cljs" "filters.cljs" "crud.cljs" "core.cljs" "contacts/" "check_vec.cljs" "app_state.cljs" "activity/" "activities.cljs" ".DS_Store" "../" "./")
 
  ("/Users/user/powernoodle/main_client_next/src/" (22156 4041 0 0) "pn_main_client/" ".DS_Store" "../" "./")
