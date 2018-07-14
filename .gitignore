@@ -1,7 +1,9 @@
-auto-save-list/
-backups/
+session.*
+backups/*
+auto-save-list/*
 cider-history
-places
-projectile-bookmarks.eld
 .recentf
+ido.last
+places
 .smex-items
+projectile-bookmarks.eld

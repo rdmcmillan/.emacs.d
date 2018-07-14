@@ -2,12 +2,136 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/home/davem/code/simple-clj-server/resources/" . "public/")
+ ("/home/davem/code/customer-service/resources/public/" . "css/")
+ ("/home/davem/code/customer-service/env/test/" . "resources/")
+ ("/home/davem/code/customer-service/env/dev/" . "resources/")
+ ("/home/davem/code/customer-service/env/" . "dev/")
+ ("/home/davem/code/customer-service/resources/" . "public/")
+ ("/home/davem/code/customer-service/src/clj/customer_service/" . "routes/")
+ ("/home/davem/code/customer-service/src/clj/" . "customer_service/")
+ ("/home/davem/code/customer-service/src/" . "clj/")
+ ("/home/davem/code/customer-service/" . "resources/")
+ ("/home/davem/code/customer-service/customer-service-frontend/test/clj/customer_service_frontend/test/" . "db/")
+ ("/home/davem/code/customer-service/customer-service-frontend/test/clj/customer_service_frontend/" . "test/")
+ ("/home/davem/code/customer-service/customer-service-frontend/test/clj/" . "customer_service_frontend/")
+ ("/home/davem/code/customer-service/customer-service-frontend/test/" . "clj/")
+ ("/home/davem/code/customer-service/customer-service-frontend/src/" . "clj/")
+ ("/home/davem/code/customer-service/customer-service-frontend/src/clj/" . "customer_service_frontend/")
+ ("/home/davem/code/customer-service/customer-service-frontend/env/dev/" . "resources/")
+ ("/home/davem/code/customer-service/customer-service-frontend/env/" . "dev/")
+ ("/home/davem/code/customer-service/customer-service-frontend/" . "test/")
+ ("/home/davem/code/clojureScript/reframe/simple/src/clj/" . "simple/")
+ ("/home/davem/code/clojureScript/reframe/simple/src/" . "clj/")
+ ("/home/davem/code/clojureScript/reframe/simple/resources/" . "public/")
+ ("/home/davem/code/clojureScript/reframe/simple/" . "resources/")
+ ("/home/davem/code/clojureScript/tutorials/" . "modern-cljs/")
+ ("/home/davem/code/clojureScript/tutorials/modern-cljs/" . "html/")
+ ("/home/davem/code/om/om-tutorial/src/" . "om_tutorial/")
+ ("/home/davem/code/om/om-tutorial/resources/" . "public/")
+ ("/home/davem/code/om/om-tutorial/" . "script/")
+ ("/home/davem/code/vpServices/item-swagger/env/test/" . "resources/")
+ ("/home/davem/searchtext/" . "resources/")
+ ("/home/davem/code/vpServices/vca-portal/env/dev/" . "clj/")
+ ("/home/davem/code/vpServices/vca-portal/env/" . "dev/")
+ ("/home/davem/code/vpServices/vca-portal/src/clj/vca_portal/" . "orders/")
+ ("/home/davem/code/vpServices/vca-portal/src/clj/" . "vca_portal/")
+ ("/home/davem/code/vpServices/orders-swagger/env/dev/" . "clj/")
+ ("/home/davem/code/vpServices/orders-swagger/env/" . "dev/")
+ ("/home/davem/code/vpServices/vca-portal/resources/public/" . "js/")
+ ("/home/davem/code/vpServices/vca-portal/resources/" . "public/")
+ ("/home/davem/code/vpServices/vca-portal/" . "resources/")
+ ("/home/davem/code/vpServices/vca-portal/src/cljs/" . "vca_portal/")
+ ("/home/davem/code/vpServices/vca-portal/src/" . "clj/")
+ ("/home/davem/code/luminusLearning/picture-gallery/src/cljc/" . "picture_gallery/")
+ ("/home/davem/code/luminusLearning/picture-gallery/src/cljs/" . "picture_gallery/")
+ ("/home/davem/code/luminusLearning/picture-gallery/env/dev/" . "resources/")
+ ("/home/davem/code/luminusLearning/picture-gallery/env/" . "dev/")
+ ("/home/davem/code/luminusLearning/picture-gallery/src/clj/picture_gallery/routes/" . "services/")
+ ("/home/davem/code/luminusLearning/picture-gallery/src/clj/picture_gallery/" . "routes/")
+ ("/home/davem/code/luminusLearning/picture-gallery/src/clj/" . "picture_gallery/")
+ ("/home/davem/code/luminusLearning/picture-gallery/src/" . "clj/")
+ ("/home/davem/code/luminusLearning/picture-gallery/resources/" . "migrations/")
+ ("/home/davem/code/luminusLearning/picture-gallery/" . "src/")
+ ("/home/davem/code/vpServices/orders-swagger/resources/" . "docs/")
+ ("/home/davem/code/vpServices/orders-swagger/src/clj/orders_swagger/" . "orders/")
+ ("/home/davem/code/vpServices/orders-swagger/src/clj/" . "orders_swagger/")
+ ("/home/davem/code/vpServices/orders-swagger/src/" . "clj/")
+ ("/home/davem/code/vpServices/orders-swagger/" . "src/")
+ ("/home/davem/code/vpServices/item-swagger/resources/" . "public/")
+ ("/home/davem/code/vpServices/item-swagger/src/clj/item_swagger/" . "items/")
+ ("/home/davem/code/vpServices/item-swagger/src/clj/" . "item_swagger/")
+ ("/home/davem/code/vpServices/item-swagger/src/" . "clj/")
+ ("/home/davem/code/vpServices/item-swagger/" . "src/")
+ ("/home/davem/code/vpServices/item-swagger/env/prod/clj/" . "item_swagger/")
+ ("/home/davem/code/vpServices/item-swagger/env/prod/" . "resources/")
+ ("/home/davem/code/vpServices/item-swagger/env/" . "test/")
+ ("/home/davem/code/luminusLearning/swagger-service/env/prod/cljs/" . "swagger_service/")
+ ("/home/davem/code/luminusLearning/swagger-service/env/prod/" . "cljs/")
+ ("/home/davem/code/luminusLearning/swagger-service/env/dev/cljs/" . "swagger_service/")
+ ("/home/davem/code/luminusLearning/swagger-service/src/cljs/" . "swagger_service/")
+ ("/home/davem/code/luminusLearning/swagger-service/env/dev/clj/" . "swagger_service/")
+ ("/home/davem/code/luminusLearning/swagger-service/env/dev/" . "cljs/")
+ ("/home/davem/code/luminusLearning/swagger-service/env/" . "prod/")
+ ("/home/davem/code/luminusLearning/" . "picture-gallery/")
+ ("/home/davem/code/luminusLearning/swagger-service/src/clj/swagger_service/" . "routes/")
+ ("/home/davem/code/luminusLearning/swagger-service/src/clj/" . "swagger_service/")
+ ("/home/davem/code/luminusLearning/swagger-service/src/" . "cljs/")
+ ("/home/davem/code/luminusLearning/swagger-service/" . "env/")
+ ("/home/davem/code/luminusLearning/guestbook/env/dev/" . "clj/")
+ ("/home/davem/code/luminusLearning/guestbook/env/" . "dev/")
+ ("/home/davem/code/luminusLearning/guestbook/src/clj/guestbook/" . "routes/")
+ ("/home/davem/code/luminusLearning/guestbook/src/clj/" . "guestbook/")
+ ("/home/davem/code/luminusLearning/guestbook/resources/public/" . "css/")
+ ("/home/davem/code/luminusLearning/guestbook/resources/" . "public/")
+ ("/home/davem/code/luminusLearning/guestbook/src/cljs/" . "guestbook/")
+ ("/home/davem/code/luminusLearning/guestbook/src/" . "cljs/")
+ ("/home/davem/code/luminusLearning/guestbook/" . "src/")
+ ("/home/davem/code/luminusLearning/luminusguestbook/src/clj/" . "guestbook/")
+ ("/home/davem/code/luminusLearning/luminusguestbook/src/" . "clj/")
+ ("/home/davem/code/luminusLearning/luminusguestbook/resources/" . "templates/")
+ ("/home/davem/code/luminusLearning/luminusguestbook/" . "src/")
+ ("/home/davem/code/luminusLearning/luminusguestbook/src/clj/guestbook/" . "routes/")
+ ("/home/davem/code/luminusLearning/selmer-templating/" . "resources/")
+ ("/home/davem/code/luminusLearning/selmer-templating/src/" . "selmer_templating/")
+ ("/home/davem/services/user-service/test/" . "user_service/")
+ ("/home/davem/services/user-service/resources/" . "migrations/")
+ ("/home/davem/services/user-service/" . "src/")
+ ("/home/davem/services/user-service/src/" . "user_service/")
+ ("/home/davem/code/vpServices/timsemulator/tims-client/src/" . "tims_client/")
+ ("/home/davem/code/vpServices/timsemulator/tims-client/" . "src/")
+ ("/home/davem/code/vpServices/order-service/test/" . "order_service/")
+ ("/home/davem/code/vpServices/order-service/resources/" . "migrations/")
+ ("/home/davem/code/vpServices/order-service/src/" . "order_service/")
+ ("/home/davem/code/vpServices/order-service/" . "test/")
+ ("/home/davem/code/vpServices/testbeacon/src/" . "item_service/")
+ ("/home/davem/code/vpServices/vca-web-portal/" . "src/")
+ ("/home/davem/code/vpServices/vca-web-portal/src/" . "vca_web_portal/")
+ ("/home/davem/code/vpServices/item-service/src/" . "item_service/")
+ ("/home/davem/code/vpServices/item-service/" . "src/")
+ ("/home/davem/code/vpServices/mailer-service/src/" . "mailer_service/")
+ ("/home/davem/code/vpServices/mailer-service/" . "src/")
+ ("/home/davem/code/first-pedestal/src/" . "first_pedestal/")
+ ("/home/davem/code/first-pedestal/" . "src/")
+ ("/home/davem/code/vpServices/synerion-connect/src/" . "synerion_connect/")
+ ("/home/davem/code/vpServices/synerion-connect/" . "src/")
+ ("/home/davem/code/vpServices/" . "vca-portal/")
+ ("/home/davem/code/db2_connect/src/" . "db2_connect/")
+ ("/home/davem/code/db2_connect/" . "src/")
+ ("/home/davem/code/slackStuff/slack-cloj/src/" . "slack_cloj/")
+ ("/home/davem/code/watch-dir/src/" . "watch_dir/")
+ ("/home/davem/code/watch-dir/" . "src/")
+ ("/home/davem/code/vpDevWeb/resources/public/" . "styles/")
+ ("/home/davem/code/vpDevWeb/resources/" . "public/")
+ ("/home/davem/code/vpDevWeb/src/" . "web_server/")
+ ("/home/davem/code/vpDevWeb/" . "resources/")
+ ("/home/davem/code/clojure-rest/src/" . "clojure_rest/")
+ ("/home/davem/code/clojure-rest/" . "src/")
+ ("/home/davem/code/simple-clj-server/resources/" . "migrations/")
  ("/home/" . "davem/")
  ("/" . "home/")
  ("/home/davem/code/simple-clj-server/src/" . "web_server/")
  ("/home/davem/code/simple-clj-server/" . "resources/")
- ("/home/davem/code/" . "simple-clj-server/")
+ ("/home/davem/code/" . "vpServices/")
  ("/home/davem/.emacs.d/" . "customizations/")
  ("/home/davem/" . ".emacs.d/")
  ("/Users/user/" . "powernoodle/")
@@ -18,61 +142,273 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/davem/code/simple-clj-server/"
- "/home/davem/code/simple-clj-server/src/web_server/"
- "/home/davem/.emacs.d/customizations/"
  "/home/davem/.emacs.d/"
- "/home/davem/Downloads/"
- "/Users/user/powernoodle/main_client_next/"
+ "/home/davem/code/vpServices/vca-portal/resources/public/js/"
+ "/home/davem/code/customer-service/src/clj/customer_service/"
+ "/home/davem/code/customer-service/src/cljs/customer_service/"
+ "/home/davem/code/customer-service/resources/public/css/"
+ "/home/davem/code/customer-service/src/clj/customer_service/routes/"
+ "/home/davem/code/customer-service/"
+ "/home/davem/code/customer-service/resources/templates/"
+ "/home/davem/code/clojureScript/tutorials/hello-world/src/hello_world/"
+ "/home/davem/code/customer-service/resources/sql/"
+ "/home/davem/code/customer-service/resources/migrations/"
+ "/home/davem/code/customer-service/env/dev/resources/"
+ "/home/davem/code/customer-service/env/test/resources/"
+ "/home/davem/code/customer-service/src/clj/customer_service/db/"
+ "/home/davem/code/customer-service/src/clj/customer_service/services/"
+ "/home/davem/code/customer-service/src/clj/customer_service_frontend/"
+ "/home/davem/code/customer-service/customer-service-frontend/"
+ "/home/davem/code/customer-service/customer-service-frontend/test/clj/customer_service_frontend/test/db/"
+ "/home/davem/code/customer-service/customer-service-frontend/src/clj/customer_service_frontend/"
+ "/home/davem/code/customer-service/customer-service-frontend/env/dev/resources/"
+ "/home/davem/code/clojureScript/reframe/simple/"
+ "/home/davem/code/clojureScript/reframe/simple/src/clj/simple/"
+ "/home/davem/code/clojureScript/reframe/simple/resources/public/"
+ "/home/davem/code/clojureScript/tutorials/modern-cljs/"
+ "/home/davem/code/clojureScript/tutorials/modern-cljs/html/"
+ "/home/davem/code/om/om-tutorial/script/"
+ "/home/davem/code/om/om-tutorial/src/om_tutorial/"
+ "/home/davem/code/om/om-tutorial/src/"
+ "/home/davem/code/om/om-tutorial/resources/public/"
+ "/home/davem/code/om/om-tutorial/"
+ "/home/davem/code/om/om-tutorial/resources/om_tutorial/"
+ "/home/davem/code/om/script/"
+ "/home/davem/code/vpServices/item-swagger/src/clj/item_swagger/items/"
+ "/home/davem/code/vpServices/item-swagger/src/clj/item_swagger/routes/"
+ "/home/davem/log-parser/"
+ "/home/davem/services/item-service/src/item_service/"
+ "/home/davem/code/vpServices/vca-portal/src/clj/vca_portal/orders/"
+ "/home/davem/code/vpServices/orders-swagger/src/clj/orders_swagger/orders/"
+ "/home/davem/code/vpServices/orders-swagger/src/clj/orders_swagger/"
+ "/home/davem/code/vpServices/orders-swagger/src/clj/orders_swagger/routes/"
+ "/home/davem/code/vpServices/vca-portal/src/clj/vca_portal/"
+ "/home/davem/code/vpServices/item-swagger/env/test/resources/"
+ "/home/davem/code/vpServices/item-swagger/env/prod/resources/"
+ "/home/davem/code/vpServices/orders-swagger/"
+ "/home/davem/code/db2_connect/src/db2_connect/"
+ "/home/davem/code/db2_connect/"
+ "/home/davem/code/vpServices/vca-portal/src/clj/vca_portal/routes/"
+ "/home/davem/searchtext/"
+ "/home/davem/code/vpServices/vca-portal/"
+ "/home/davem/code/vpServices/vca-portal/env/dev/clj/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "project.clj"
- "styles.clj"
- "setup-clojure.el"
  "init.el"
- "core.clj"
- "editing.el"
- "ACU001C.MBR"
+ "login.js"
+ "users.clj"
+ "coreBak.cljs"
+ "baseStyles.css"
+ "tickets.clj"
  "README.md"
+ "select_clinic.html"
+ "core.cljs"
+ "baseTemplate.html"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/davem/code/simple-clj-server/" (22902 24569 36816 930000) "src/" "resources/" "#project.clj#" ".gitignore" "doc/" ".lein-repl-history" "./" "README.md" "../" "CHANGELOG.md" "target/" "test/" "LICENSE" "project.clj")
+ ("/home/davem/.emacs.d/" (23366 20992 734005 74000) "themes/" "projectile-bookmarks.eld" "init.el" "places" "session.10102ea6c81405fb35152995927478101000000071230035" "auto-save-list/" ".git/" ".gitignore" "session.10366ab178360875b8151967982484744600000056580037" "ido.last" "session.104cd94a768de2ce2151699822575930100000042060032" "elpa/" ".recentf" "cider-history" "./" "README.md" "../" "session.10a6a24f9fd7c94a0a150349484073469600000014430032" ".smex-items" "session.105d3e6c1fedf9b01a151609713316507800000052820032" "customizations/" "session.104cd94a768de2ce2151699837998584900000042060033" "session.10d5121dc2bd8f7c5150731545219915800000063540034" "session.10749ef97e31fee608151520278467127900000042040033" "backups/")
 
- ("/home/davem/code/simple-clj-server/src/web_server/" (22902 20202 436816 930000) "page.clj" "core.clj" "styles.clj" "./" "../")
+ ("/home/davem/" (23366 14371 693339 814000) "WebstormProjects/" ".dmrc" ".emacs.d/" ".xinputrc" "IBM/" ".vim/" ".yarnrc" ".profile" "IdeaProjects/" ".selected_editor" ".linuxmint/" "Documents/" ".themes/" ".bash_logout" ".vboxclient-draganddrop.pid" ".pki/" ".boot/" ".Xauthority" ".icons/" ".swt/" ".tooling/" "vpcl/" ".lein/" "budBackLog.txt" ".gnome/" "IBMiAccess/" ".npm/" "workspace/" ".bashrc" ".xsession-errors" "S2K/" ".node_repl_history" ".cache/" ".IntelliJIdea2018.1/" "linux-install-1.9.0.381.sh" ".vboxclient-seamless.pid" ".yarn/" ".clojure/" "services/" ".gitconfig" ".nano/" ".sudo_as_admin_successful" ".config/" ".sqlite_history" ".local/" "log-parser/" ".credentials/" ".dbus/" ".psql_history" ".vboxclient-clipboard.pid" "Downloads/" ".cinnamon/" ".gradle/" ".ICEauthority" ".nvm/" ".bash_history.swp" ".dmrc.4WJG3Y" ".install4j" ".p2/" ".node_modules_global/" ".smbcredentials" ".oracle_jre_usage/" ".vscode/" "budBacks/" ".gitignore_global" "devS2K/" "code/" "./" "../" "Desktop/" ".WebStorm2018.1/" ".vboxclient-display.pid" ".viminfo" ".bash_history" "searchtext/" ".wget-hsts" ".thunderbird/" ".m2/" ".cljs/" ".gnupg/" ".lesshst" ".aptitude/" "bin/" ".java/" ".mozilla/" ".clojure_history" "miworkplace/" ".gconf/" ".netrc" ".lein_history" ".DataGrip2018.1/" ".ssh/" ".gksu.lock")
 
- ("/home/davem/code/simple-clj-server/resources/public/" (22899 48135 24377 39000) "node_modules/" "./" "../" "calendar.html" "styles/" "images/")
+ ("/home/davem/code/customer-service/" (23366 22159 829342 81000) ".rebel_readline_history" "src/" "env/" "resources/" "test-config.edn" "Dockerfile" "log/" ".git/" ".gitignore" ".gitlab-ci.yml" "Capstanfile" ".lein-repl-history" "Procfile" "dev-config.edn" "./" "README.md" ".idea/" "../" "target/" "test/" ".lein-failures" ".nrepl-port" "figwheel_server.log" "project.clj")
 
- ("/home/davem/code/simple-clj-server/resources/" (22899 47464 332400 960000) "public/" "./" "../")
+ ("/home/davem/code/customer-service/src/clj/customer_service/" (23366 4809 531008 485000) "services/" "core.clj" "routes/" "layout.clj" "db/" "./" "../" "users.clj" "handler.clj" "middleware.clj" "config.clj")
 
- ("/home/davem/.emacs.d/customizations/" (22902 10692 887127 746000) "ui.el" "navigation.el" "misc-fns.el" "dired-details+.el" "setup-clojure.el" "./" "../" "shell-integration.el" "strings.el" "misc.el" "editing.el" "thingatpt+.el" "dired-details.el" "setup-js.el" "elisp-editing.el")
+ ("/home/davem/code/vpServices/vca-portal/resources/public/js/" (23206 36210 589615 829000) "node_modules/" "npm-debug.log" "adminLogin.js" "./" "../" "package.json" "login.js")
 
- ("/home/davem/.emacs.d/" (22902 14486 565123 127000) "themes/" "projectile-bookmarks.eld" "init.el" "places" "auto-save-list/" ".git/" ".gitignore" "ido.last" "elpa/" ".recentf" "cider-history" "./" "README.md" "../" ".smex-items" "customizations/" "backups/")
+ ("/home/davem/code/vpServices/vca-portal/resources/public/" (23182 62013 62699 343000) "css/" "js/" "img/" "faq.pdf" "./" "../" "favicon.ico" "styles/")
 
- ("/home/" (22847 63912 684113 330000) "./" "../" "davem/")
+ ("/home/davem/code/vpServices/vca-portal/resources/" (23139 19294 748763 500000) "docs/" "sql/" "public/" "./" "../" "migrations/" "templates/")
 
- ("/tmp/" (22902 14749 525123 127000) ".X0-lock" "mintUpdate/" "eldoc.txt" ".XIM-unix/" "vscode-3c0d6032-54c2-476c-b6ec-305b645fd1e8.sock" "systemd-private-84e364b81dcc40e8a7146960cb6f0654-colord.service-LGzCpF/" "systemd-private-84e364b81dcc40e8a7146960cb6f0654-rtkit-daemon.service-uc1Byz/" ".Test-unix/" ".ICE-unix/" "pulse-PKdhtXMmr18n/" "VSCode Crashes/" "62e16447-b5a1-4bb2-9337-569ae30594fb/" ".com.google.Chrome.TXVQi5/" "hsperfdata_davem/" ".X11-unix/" ".font-unix/" "ssh-3rTIxL7gpsq6/" "../" "./")
+ ("/home/davem/code/vpServices/vca-portal/" (23356 55643 734634 70000) "src/" "env/" "resources/" "test-config.edn" "Dockerfile" "log/" ".git/" ".gitignore" "Capstanfile" "Procfile" "dev-config.edn" "./" "README.md" "../" "target/" "test/" "figwheel_server.log" "project.clj")
 
- ("/home/davem/Downloads/" (22894 4579 265489 83000) "TDReport.sh" "HELLOWORLD.MBR" "QSYSPRT_1_QPADEV000H_DAVEM_569041_VPCL_1170717_094615.txt" "OR0150W.MBR" "jdk-8u131-linux-x64.tar.gz" "geronimo-tomcat6-javaee5-2.2.1-bin.tar.gz" "test2" "emacs.d-master.zip" "ksh93BAK" "test.txt" "fullcalendar-3.4.0.zip" "test1" "atlassian-confluence-6.2.3-x64.bin" ".emacs.d-master/" "ACU001C.MBR" "java_ee_sdk-7u3.zip" "./" "../" "Screen Shot 2015-08-14 at 4.19.27 PM.png" "index.html" "ACU003C.MBR" "favicon.ico" "code_1.13.0-1496940180_amd64.deb" "TDReport" "test1.rpg" "geronimo-tomcat7-javaee6-3.0.1-bin.tar.gz" "TXBOUT.TXT" "atlassian-bamboo-6.0.3.tar.gz")
+ ("/home/davem/code/vpServices/vca-portal/src/" (23139 19294 672725 502000) "clj/" "cljs/" "cljc/" "./" "../")
 
- ("/home/davem/" (22902 9328 91695 745000) "ftpSearch.txt" ".dmrc" "calfront/" ".emacs.d/" "jiraQueries.txt" "IBM/" ".vim/" ".profile" ".linuxmint/" "Documents/" ".themes/" ".bash_logout" ".vboxclient-draganddrop.pid" ".pki/" ".Xauthority" "Untitled Folder.fdfx" ".icons/" ".swt/" "vpcl/" ".lein/" ".gnome/" "IBMiAccess/" ".npm/" "gitTest/" "workspace/" ".bashrc" ".emacs.d.bak/" ".xsession-errors" ".eclipse/" ".node_repl_history" "vpcl2/" ".cache/" "mintShare/" ".vboxclient-seamless.pid" "vpWorkspace/" ".gitconfig" ".nano/" ".sudo_as_admin_successful" ".config/" ".local/" ".dbus/" ".vboxclient-clipboard.pid" "Downloads/" "Pictures/" ".cinnamon/" ".ICEauthority" ".bash_history.swp" ".dmrc.4WJG3Y" "atlassian-bitbucket-5.1.1-x64.bin" ".install4j" ".p2/" ".node_modules_global/" "testText.txt" ".oracle_jre_usage/" ".vscode/" "code/" "./" "../" "Desktop/" "iSeriesFiles/" "Public/" ".vboxclient-display.pid" ".npmrc" ".viminfo" "eclipseWorkSpace/" ".bash_history" ".wget-hsts" ".thunderbird/" ".m2/" ".gnupg/" "VP/" "Templates/" "bin/" "eclipse/" ".java/" ".mozilla/" "miworkplace/" ".gconf/" ".netrc" ".ssh/" ".gksu.lock")
+ ("/home/davem/code/vpServices/vca-portal/src/clj/" (23139 19294 648713 503000) "vca_portal/" "./" "../")
 
- ("/home/davem/code/" (22899 37905 95647 816000) "cloj/" "npmTry/" "slackStuff/" "webApp/" "fullcalendar/" "./" "../" "fullcalendar-3.4.0/" "calAppVp/" "simple-clj-server/")
+ ("/home/davem/code/" (23364 52956 530238 758000) "vpServices/" "db2_connect/" "clojure-rest/" "slackStuff/" "GoogleDriver/" "clojure/" "customer-service/" "clojureScript/" "watch-dir/" "./" "../" "jwtLearnin/" "hickory/" "sftpClient/" "vpDevWeb/" "luminusLearning/" "simple-clj-server/")
 
- ("/home/davem/code/simple-clj-server/src/" (22899 44569 532400 960000) "web_server/" "./" "../")
+ ("/home/davem/code/customer-service/src/cljs/" (23357 1374 911879 291000) "./" "../" "customer_service/")
 
- ("/Users/user/powernoodle/main_client_next/src/pn_main_client/" (22169 23542 0 0) "tools/" "spaces/" "space_states/" "space/" "rankings.cljs" "network/" "md5.cljs" "logout/" "identifiers.cljs" "help/" "framework/" "filters_ui.cljs" "filters_eval.cljs" "filters.cljs" "crud.cljs" "core.cljs" "contacts/" "check_vec.cljs" "app_state.cljs" "activity/" "activities.cljs" ".DS_Store" "../" "./")
+ ("/home/davem/code/customer-service/src/cljs/customer_service/" (23357 160 987823 434000) "events.cljs" "./" "../" "core.cljs" "ajax.cljs")
 
- ("/Users/user/powernoodle/main_client_next/src/" (22156 4041 0 0) "pn_main_client/" ".DS_Store" "../" "./")
+ ("/home/davem/code/customer-service/src/clj/customer_service/routes/" (23364 48332 134898 643000) "home.clj" "./" "../" "tickets.clj")
 
- ("/Users/user/powernoodle/main_client_next/" (22169 3975 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "figwheel_server.log" "dev-resources/" ".lein-failures" ".gitignore" ".git/" ".DS_Store" "../" "./")
+ ("/home/davem/code/customer-service/resources/templates/" (23364 47345 579667 435000) "login.html" "select_clinic.html" "footer.html" "base_template.html" "header.html" "home.html" "./" "../" "error.html")
 
- ("/Users/user/powernoodle/" (22107 7080 0 0) "powerjam/" "pn_ui_client/" "pn_proto_js/" "pn_proto_clj/" "pn_model_server/" "pn_model_client/" "pn_main_server/" "pn_main_client/" "pn_build/" "main_client_next/" ".DS_Store" "../" "./")
+ ("/home/davem/code/clojureScript/tutorials/hello-world/src/hello_world/" (23363 38500 655709 132000) "./" "../")
 
- ("/Users/user/" (22172 62454 0 0) "win8,txt" "weedDetect12070801.png" "VMs/" "VirtualBox VMs/" "userSubscriptions.txt" "tried_to_BASH" "tmp/" "timestampFixes.txt" "staryTardis.jpg" "Sites/" "Samepage/" "reports.clj" "report-setup.clj" "Public/" "powernoodle/" "Pictures/" "OneDrive/" "npm-debug.log" "nateDocs/" "Nate/" "Music/" "Movies/" "Library/" "lein.txt" "hardlink/" "geeknote/" "Emily/" "eclipse/" "Downloads/" "Documents/" "Desktop/" "DBs/" "code/" "clojureInSmallPieces.pdf" "brave/" "Applications/" "936.png" "1CPQQ3X2A7L6_165.xls" ".Xauthority" ".wget-hsts" ".viminfo" ".Trash/" ".ssh/" ".rnd" ".python-eggs/" ".p2/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".MacOSX/" ".m2/" ".local/" ".lein_history" ".lein/" ".java_history" ".IdeaIC15/" ".gnome2/" ".gitignore_global" ".gitexcludes" ".gitconfig" ".geeknote/" ".emacs.d.BAK/" ".emacs.d/" ".eclipse/" ".DS_Store" ".config/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" "../" "./")
+ ("/home/davem/code/customer-service/env/test/" (23356 60987 429272 0) "resources/" "./" "../")
+
+ ("/home/davem/code/customer-service/env/test/resources/" (23357 161 103828 754000) "logback.xml" "config.edn" "./" "../")
+
+ ("/home/davem/code/customer-service/resources/sql/" (23356 61190 434965 390000) "./" "../" "queries.sql")
+
+ ("/home/davem/code/customer-service/src/clj/customer_service/db/" (23357 161 163831 506000) "core.clj" "./" "../")
+
+ ("/home/davem/code/customer-service/src/clj/customer_service/services/" (23358 13031 264808 924000) "auth.clj" "./" "../")
+
+ ("/home/davem/code/customer-service/resources/migrations/" (23356 61190 434965 390000) "20180703165724-add-users-table.down.sql" "20180703165724-add-users-table.up.sql" "./" "../")
+
+ ("/home/davem/code/customer-service/env/dev/resources/" (23357 161 115829 304000) "logback.xml" "config.edn" "./" "../")
+
+ ("/home/davem/code/customer-service/env/dev/" (23356 60987 429272 0) "clj/" "resources/" "cljs/" "./" "../")
+
+ ("/home/davem/code/customer-service/env/" (23356 60987 429272 0) "prod/" "dev/" "./" "../" "test/")
+
+ ("/home/davem/code/customer-service/src/clj/" (23356 64969 478361 508000) "./" "../" "customer_service/")
+
+ ("/home/davem/code/customer-service/src/clj/customer_service_frontend/" (23356 61190 474967 289000) "core.clj" "routes/" "layout.clj" "db/" "./" "../" "handler.clj" "middleware.clj" "config.clj")
+
+ ("/home/davem/code/customer-service/src/" (23356 60987 469274 0) "clj/" "cljs/" "cljc/" "./" "../")
+
+ ("/home/davem/code/customer-service/resources/" (23356 60987 461274 0) "docs/" "sql/" "public/" "./" "../" "migrations/" "templates/")
+
+ ("/home/davem/code/customer-service/resources/public/" (23356 62036 158626 785000) "css/" "js/" "img/" "./" "../" "favicon.ico")
+
+ ("/home/davem/code/customer-service/resources/public/css/" (23356 62342 904799 69000) "baseStyles.css" "./" "../" "screen.css")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/" (23356 54974 11195 817000) "src/" "env/" "resources/" "test-config.edn" "Dockerfile" "log/" ".gitignore" "Capstanfile" "Procfile" "dev-config.edn" "./" "README.md" "../" "target/" "test/" ".lein-failures" "project.clj")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/test/clj/customer_service_frontend/test/db/" (23355 58164 956346 294000) "core.clj" "./" "../")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/test/clj/customer_service_frontend/test/" (23355 58164 956346 294000) "db/" "./" "../" "handler.clj")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/test/clj/customer_service_frontend/" (23355 58164 952346 216000) "./" "../" "test/")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/test/clj/" (23355 58164 952346 216000) "./" "../" "customer_service_frontend/")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/test/" (23355 58164 952346 216000) "clj/" "cljs/" "./" "../")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/env/dev/resources/" (23355 58164 948346 137000) "logback.xml" "config.edn" "./" "../")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/env/dev/clj/" (23355 58164 948346 137000) "user.clj" "./" "../" "customer_service_frontend/")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/env/dev/" (23355 58164 888344 960000) "clj/" "resources/" "cljs/" "./" "../")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/env/" (23355 58164 872344 646000) "prod/" "dev/" "./" "../" "test/")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/src/" (23355 58164 948346 137000) "clj/" "cljs/" "cljc/" "./" "../")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/src/clj/" (23355 58164 948346 137000) "./" "../" "customer_service_frontend/")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/src/clj/customer_service_frontend/" (23355 58164 956346 294000) "core.clj" "routes/" "layout.clj" "db/" "./" "../" "handler.clj" "middleware.clj" "config.clj")
+
+ ("/home/davem/code/customer-service/customer-service-frontend/src/clj/customer_service_frontend/db/" (23355 58164 956346 294000) "core.clj" "./" "../")
+
+ ("/home/davem/code/clojureScript/reframe/simple/src/" (23346 22555 994351 927000) "clj/" "simple/" "cljs/" "./" "../")
+
+ ("/home/davem/code/clojureScript/reframe/simple/src/simple/" (23346 22555 994351 927000) "./" "../" "core.cljs")
+
+ ("/home/davem/code/clojureScript/reframe/simple/resources/public/" (23346 18541 501050 550000) "./" "../" "index.html")
+
+ ("/home/davem/code/clojureScript/reframe/simple/resources/" (23346 17708 403628 817000) "public/" "./" "../")
+
+ ("/home/davem/code/clojureScript/reframe/simple/" (23346 17708 403628 817000) "src/" "resources/" ".gitignore" "./" "README.md" "../" "project.clj")
+
+ ("/home/davem/code/clojureScript/reframe/simple/src/clj/" (23346 17708 403628 817000) "simple/" "./" "../")
+
+ ("/home/davem/code/clojureScript/reframe/simple/src/clj/simple/" (23346 17708 403628 817000) "core.clj" "./" "../")
+
+ ("/home/davem/code/clojureScript/tutorials/" (23345 21228 215929 663000) "modern-cljs/" "./" "../")
+
+ ("/home/davem/code/clojureScript/tutorials/modern-cljs/html/" (23345 21625 745074 694000) "./" "../" "index.html")
+
+ ("/home/davem/code/clojureScript/tutorials/modern-cljs/" (23345 21265 480037 964000) "src/" "build.boot" "./" "../" "html/")
+
+ ("/home/davem/code/clojureScript/tutorials/modern-cljs/src/" (23345 21228 215929 663000) "cljs/" "./" "../")
+
+ ("/home/davem/code/clojureScript/tutorials/modern-cljs/src/cljs/" (23345 21228 215929 663000) "./" "../" "modern_cljs/")
+
+ ("/home/davem/code/clojureScript/tutorials/modern-cljs/src/cljs/modern_cljs/" (23345 21327 724218 408000) "./" "../" "core.cljs")
+
+ ("/home/davem/code/om/om-tutorial/script/" (23341 19800 334312 850000) "./" "../" "figwheel.clj")
+
+ ("/home/davem/code/om/om-tutorial/" (23341 19751 806170 357000) "src/" "resources/" "script/" "./" "../" "target/" "figwheel_server.log" "project.clj")
+
+ ("/home/davem/code/om/om-tutorial/src/" (23341 24139 742065 69000) "om_tutorial/" "./" "../" "core.cljs")
+
+ ("/home/davem/code/om/om-tutorial/src/om_tutorial/" (23341 17800 792264 339000) "src.clj" "./" "../")
+
+ ("/home/davem/code/om/om-tutorial/resources/" (23341 17551 951428 108000) "public/" "./" "../")
+
+ ("/home/davem/code/om/om-tutorial/resources/om_tutorial/" (23341 17209 586221 971000) "./" "../" "core.cljs")
+
+ ("/home/davem/code/om/om-tutorial/resources/public/" (23341 16912 625075 842000) "./" "../" "index.html")
+
+ ("/home/davem/code/om/" (23341 12300 273622 264000) "./" "../" "om-tutorial/" "project.clj")
+
+ ("/home/davem/code/vpDevWeb/resources/public/" (22911 17268 883778 1000) "node_modules/" "css/" "jiraUsers.html" "./" "../" "calendar.html" "styles/" "images/")
+
+ ("/home/davem/code/vpDevWeb/resources/" (22903 34184 855389 65000) "public/" "./" "../" "migrations/" "originalCreateEventTable.sql")
+
+ ("/home/davem/code/vpDevWeb/" (23340 64752 34182 241000) "src/" "resources/" ".git/" ".gitignore" "log4j.properties" "doc/" ".lein-repl-history" "./" "README.md" "../" "calendar.db" "CHANGELOG.md" "target/" "test/" ".nrepl-port" "LICENSE" "project.clj")
+
+ ("/home/davem/code/vpDevWeb/src/" (22899 44569 532400 960000) "web_server/" "./" "../")
+
+ ("/home/davem/code/vpDevWeb/src/web_server/" (22941 33453 448678 30000) "jira_tracker.clj" "page.clj" "core.clj" "jira_model.clj" "styles.clj" "./" "../" "events.clj" "event_model.clj")
+
+ ("/home/davem/log-parser/" (23319 62306 581765 3000) "src/" "resources/" ".gitignore" "doc/" "./" "README.md" "../" ".hgignore" "CHANGELOG.md" "test/" "LICENSE" "project.clj")
+
+ ("/home/davem/log-parser/src/" (23319 62306 577764 972000) "./" "../" "log_parser/")
+
+ ("/home/davem/log-parser/src/log_parser/" (23319 62306 577764 972000) "core.clj" "./" "../")
+
+ ("/home/davem/services/item-service/src/item_service/" (23100 4795 746701 539000) "utils.clj" "logging.clj" "item_search_data.clj" "item_master_data.clj" "./" "../" "solr_client.clj" "query_time.clj" "service.clj" "item_mappings.clj" "server.clj")
+
+ ("/home/davem/code/vpServices/orders-swagger/" (23212 1463 532421 101000) "test-accounts.txt" "src/" "env/" "sampleData/" "resources/" "test-config.edn" "Dockerfile" "log/" ".git/" ".gitignore" "Capstanfile" "Procfile" "dev-config.edn" "./" "README.md" "../" "target/" "test/" ".nrepl-port" "figwheel_server.log" "project.clj")
+
+ ("/home/davem/code/vpServices/vca-portal/src/clj/vca_portal/orders/" (23206 36210 601615 881000) "utils.clj" "order_client.clj" "./" "../" "solr_client.clj" "item_client.clj")
+
+ ("/home/davem/code/vpServices/vca-portal/src/clj/vca_portal/" (23206 36210 645616 75000) "pages.clj" "core.clj" "routes/" "layout.clj" "db/" "styles.clj" "./" "../" "users.clj" "handler.clj" "middleware.clj" "config.clj" "admin_pages.clj" "orders/")
+
+ ("/home/davem/code/vpServices/vca-portal/src/clj/vca_portal/routes/" (23206 36210 665616 163000) "home.clj" "services.clj" "./" "../")
+
+ ("/home/davem/code/vpServices/" (23200 1492 826104 259000) "orders-swagger/" "vpcl-emulator/" "emp-order-portal/" ".gitignore" "user-service/" "testbeacon/" "mailer-service/" "vpBackend/" "timsemulator/" "./" "../" "vca-portal/" "item-swagger/" "synerion-connect/")
+
+ ("/home/davem/code/vpServices/item-swagger/src/clj/item_swagger/routes/" (23200 8431 924802 947000) "home.clj" "services.clj" "./" "../")
+
+ ("/home/davem/code/vpServices/item-swagger/" (23190 46792 297529 248000) ".cljs_rhino_repl/" "src/" "env/" "itemIds.csv" "resources/" "test-config.edn" "Dockerfile" "log/" ".git/" ".gitignore" "Capstanfile" "Procfile" "dev-config.edn" "./" "README.md" "../" "target/" "test/" ".lein-failures" ".nrepl-port" "itemIds.edn" "figwheel_server.log" "project.clj")
+
+ ("/home/davem/code/vpServices/item-swagger/src/clj/item_swagger/items/" (23180 39096 67092 123000) "utils.clj" "item_search_data.clj" "item_master_data.clj" "./" "../" "solr_client.clj" "query_time.clj" "item_mappings.clj")
+
+ ("/home/davem/code/vpServices/item-swagger/env/test/resources/" (23124 41049 7232 987000) "logback.xml" "config.edn" "./" "../")
+
+ ("/home/davem/code/vpServices/item-swagger/env/test/" (23124 41048 951232 987000) "resources/" "./" "../")
+
+ ("/home/davem/code/vpServices/item-swagger/env/prod/resources/" (23124 41049 7232 987000) "logback.xml" "config.edn" "./" "../")
+
+ ("/home/davem/code/vpServices/orders-swagger/src/clj/orders_swagger/orders/" (23156 46456 762967 737000) "order_items_data.clj" "clinic_group_data.clj" "order_status_data.clj" "orders.clj" "clinic_data.clj" "utils.clj" "logging.clj" "order_data.clj" "vp_legacy.clj" "migrations.clj" "order_process.clj" "alt_address_data.clj" "./" "../" "solr_client.clj" "db_con.clj" "user_data.clj")
+
+ ("/home/davem/code/db2_connect/src/db2_connect/" (23153 64075 327419 809000) "core.clj" "crud.clj" "./" "../" "item-mappings.clj" "query_time.clj")
+
+ ("/home/davem/code/db2_connect/" (23153 64099 155419 809000) "src/" "resources/" ".gitignore" "doc/" ".lein-repl-history" "./" "README.md" "../" ".hgignore" "CHANGELOG.md" "lib/" "target/" "test/" ".nrepl-port" "LICENSE" "project.clj")
+
+ ("/home/davem/searchtext/resources/" (23144 36849 275530 134000) "./" "../")
+
+ ("/home/davem/searchtext/src/" (23144 36849 155410 137000) "./" "../" "searchtext/")
+
+ ("/home/davem/searchtext/src/searchtext/" (23144 38556 490289 326000) "core.clj" "./" "../")
+
+ ("/home/davem/searchtext/" (23144 38617 936995 605000) "src/" "resources/" ".gitignore" "results.txt" "doc/" "./" "README.md" "../" ".hgignore" "CHANGELOG.md" "target/" "test/" ".nrepl-port" "LICENSE" "project.clj")
+
+ ("/home/davem/code/vpServices/timsemulator/" (23098 24003 403814 526000) ".git/" "./" "../" "tims-client/")
+
+ ("/home/davem/code/vpServices/timsemulator/tims-client/" (23136 48316 458498 461000) "poNum.edn" "src/" "resources/" ".gitignore" "doc/" "./" "README.md" "../" ".hgignore" "CHANGELOG.md" "target/" "test/" "LICENSE" "itemIds.edn" "project.clj")
+
+ ("/home/davem/code/vpServices/timsemulator/tims-client/src/" (23097 34766 772193 959000) "tims_client/" "./" "../")
+
+ ("/home/davem/code/vpServices/timsemulator/tims-client/src/tims_client/" (23097 34766 772193 959000) "core.clj" "./" "../")
+
+ ("/home/davem/code/vpServices/vca-portal/resources/public/css/" (23141 63340 296113 877000) "originalSiteStyles.css" "base_styles.css" "./" "../" "screen.css")
+
+ ("/home/davem/code/vpServices/vcaServices/" (23133 2243 291561 713000) "orders-swagger/" "timsemulator/" "./" "../" "item-swagger/")
+
+ ("/home/davem/code/vpServices/vca-portal/env/dev/clj/" (23139 19294 736757 500000) "user.clj" "vca_portal/" "./" "../")
 )
 
 ;; ----- ido-unc-hosts-cache -----
