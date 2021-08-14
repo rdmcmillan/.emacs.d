@@ -2,6 +2,9 @@
 ;; Packages
 ;;;;
 
+;; Attempt to make package archives accessible..
+(setq gnutls-algorithm-priority "NORMAL:-VERS-TLS1.3") 
+
 ;; Define package repositories
 (require 'package)
 (let* ((no-ssl (and (memq system-type '(windows-nt ms-dos))
@@ -13,7 +16,7 @@
   (when (< emacs-major-version 24)
     ;; For important compatibility libraries like cl-lib
     (add-to-list 'package-archives '("gnu" . (concat proto "://elpa.gnu.org/packages/")))))
-(package-initialize)
+;;(package-initialize)
 
 ;; (setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
 ;;                          ("marmalade" . "http://marmalade-repo.org/packages/")
