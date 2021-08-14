@@ -150,7 +150,7 @@
 (setq x-select-enable-clipboard t)
 
 ;; Set font size
-(set-face-attribute 'default nil :height 85)
+(set-face-attribute 'default nil :height 115)
 
 ;; Remove gui tool bar
 (tool-bar-mode -1)
